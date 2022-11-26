@@ -1,0 +1,37 @@
+div
+{
+    border-style: solid;
+    width: 350px;
+    height: 350px;
+    border-color: red;
+}
+.im1
+{
+  margin: 0;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.im2
+{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    float:right;
+}
+h3
+{
+color: blue;
+width: 350px;
+}
+.im3
+{
+    position: relative;
+    top: 90%;
+    transform: translateY(-50%);
+    left: 30%;
+} 
+button
+{
+    margin: 1%;
+}

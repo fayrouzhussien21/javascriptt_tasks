@@ -1,0 +1,27 @@
+body
+{
+    background: rgba(255, 205, 165, 0.418);
+    color: rgb(46, 192, 211);
+}
+
+
+.title
+{
+    
+    font-size: 37px;
+    
+}
+img
+{
+    width: 200px;
+    height: 200px;
+}
+#Message{
+    width: 400px;
+    height: 200px;
+}
+input{
+    padding-top: 0;
+    padding-left: 0;
+  
+ }
